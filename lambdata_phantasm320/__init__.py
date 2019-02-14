@@ -1,6 +1,6 @@
 def calculate(data, target, feature_1, feature_2):
     '''
-    Returns a dictionary of a columns unique
+    Returns a dictionary of a column of unique
     names/values as a percentage with respect to the target
     -------------------------------------------------------------------
     data(pandas dataframe): is the name of your training data frame
